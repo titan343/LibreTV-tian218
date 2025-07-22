@@ -114,6 +114,14 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    ttdm: {
+        api: 'https://www.ttdm3.me/api.php/provide/vod',
+        name: '天天'
+    },
+     kimivod: {
+        api: 'https://kimivod.com/api.php/provide/vod',
+        name: 'kimi'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
